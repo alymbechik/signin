@@ -1,0 +1,18 @@
+.user{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    gap: 40px;
+}
+.card{
+    background: #224957;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: zoom-in;
+}
+.a{
+    font-size: 20px;
+}
