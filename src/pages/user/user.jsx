@@ -16,7 +16,7 @@ const User = () => {
 
   useEffect(()=>{
     getUsers()
-  },[])
+  })
 
   return (
     <div className='user'>
